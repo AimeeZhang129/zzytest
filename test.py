@@ -20,6 +20,8 @@ def main():
 
 	for number in test_array:
 		print number
+	
+	print "abc"
 
 if __name__ == '__main__':
     main()
